@@ -286,3 +286,4 @@ a better and simpler alternative is to use length-prefixed data, that is, to spe
 - websocket frame format: no delimiters at all
 - HTTP/2: frame based
 - the MessagePack serialization format: some kind of binary JSON
+
